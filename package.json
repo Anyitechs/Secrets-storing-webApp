@@ -1,0 +1,20 @@
+{
+  "name": "secrets-saving-app",
+  "version": "1.0.0",
+  "description": "A simple WebApp that enables you save up your secrets.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ifeanyichukwu Amajuoyi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.1.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1",
+    "mongoose-encryption": "^2.0.2"
+  }
+}
