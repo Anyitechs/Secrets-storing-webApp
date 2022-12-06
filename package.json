@@ -10,10 +10,10 @@
   "author": "Ifeanyichukwu Amajuoyi",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "dotenv": "^8.1.0",
     "ejs": "^2.7.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.7.1",
     "mongoose-encryption": "^2.0.2"
   }
